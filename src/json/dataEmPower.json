@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "Fuel Cards to Optimize Your Fleet Operations",
+    "content": "Gain a comprehensive perspective on fleet operations and expenditures to unlock savings and enhance profitability.",
+    "logo": "/src/assets/images/logo-fuel.png"
+  },
+  {
+    "id": 2,
+    "title": "Financial Solutions for Your Business Growth",
+    "content": "Fuel your growth with invoice factoring and unlock your working capital.",
+    "logo": "/src/assets/images/logo-financial.png"
+  },
+  {
+    "id": 3,
+    "title": "Efficient Fleet Management for Better Performance",
+    "content": "Take control of your fleet with real-time insights for better performance and cost savings.",
+    "logo": "/src/assets/images/logo-efficient.png"
+  },
+  {
+    "id": 4,
+    "title": "Trusted by 1000+ Companies in the Logistics Sector",
+    "content": "Join leaders in the logistics sector who trust Motion to enhance operational efficiencies and grow profitability.",
+    "logo": "/src/assets/images/logo-trusted.png"
+  }
+]

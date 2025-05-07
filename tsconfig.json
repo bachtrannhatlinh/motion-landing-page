@@ -9,9 +9,9 @@
     "target": "ESNext",
     "moduleResolution": "Node",
     "jsx": "react-jsx",
-    "baseUrl": "./src", // Quan trọng nếu muốn import từ "components/NavBar"
+    "baseUrl": ".",
     "paths": {
-      "@components/*": ["components/*"]
+      "@/*": ["src/*"]
     }
   }
 }

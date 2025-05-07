@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "sub": "INVOICE FACTORING",
+    "title": "Cash flow you need when you need it",
+    "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique. Duis cursus, mi quis viverra ornare, eros dolor interdum nulla, ut commodo diam libero vitae erat.",
+    "buttonText": "Take action"
+  },
+  {
+    "id": 2,
+    "sub": "FLEET MANAGEMENT",
+    "title": "Unparalleled visibility into fleet vehicle location, utilization, and health.",
+    "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique. Duis cursus, mi quis viverra ornare, eros dolor interdum nulla, ut commodo diam libero vitae erat.",
+    "buttonText": "Explore more"
+  },
+  {
+    "id": 3,
+    "sub": "FUEL CARDS",
+    "title": "Maximize Savings with Fleet Fuel Cards",
+    "content": "Fuel is a significant and fluctuating expense for any business with a fleet of vehicles. As fuel prices continue to rise—reaching over five dollars per gallon in the summer of 2022—managing these costs becomes increasingly important.",
+    "buttonText": "Learn more"
+  }
+]
