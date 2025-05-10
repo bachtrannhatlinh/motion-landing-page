@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react"
-import Container from "../Container"
+import Container from "../Container/index"
 import type { ContainerData } from "@/types";
 
 const Layout = () => {

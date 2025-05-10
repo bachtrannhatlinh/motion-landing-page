@@ -19,7 +19,7 @@ const FAQ = () => {
 
 
   return (
-    <div className="flex flex-col gap-20 py-[60px] px-2 lg:px-16 bg-gray-800 text-white border rounded-bl-[150px] rounded-br-[150px] font-montserrat align-middle justify-center items-center ">
+    <div className="flex flex-col gap-20 py-[60px] px-2 lg:px-16 bg-gray-800 text-white rounded-bl-[150px] rounded-br-[150px] font-montserrat align-middle justify-center items-center ">
       <h1 className="font-bold text-2xl lg:text-5xl leading-[120%]">Frequently Asked Questions</h1>
       <div className="w-[425px] lg:w-[768px]">
         {data.map((item) => (

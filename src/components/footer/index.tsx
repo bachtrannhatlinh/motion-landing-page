@@ -5,7 +5,7 @@ const Footer = () => {
   return (
     <div className="gap-20 py-20 px-2 lg:px-16 bg-white ">
       <div className="flex flex-row justify-between items-center mb-20">
-        <img src={logoMotion} alt="logo" />
+        <img src={logoMotion} alt="logo" className="h-auto object-cover"/>
         <ul className="hidden lg:flex flex-row gap-8 text-black_202937 font-inter font-bold text-base leading-[150%]">
           <li>Home</li>
           <li>Fuel Card</li>
