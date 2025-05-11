@@ -3,7 +3,7 @@ import truck from "@/assets/images/truck.png";
 
 const Discover = () => {
   return (
-    <Layout>
+    <Layout className="grid grid-cols-1 lg:grid-cols-2">
       <div className="gap-6 flex flex-col justify-center items-start">
         <img src={truck} alt="truck" className="h-auto object-cover" />
         <h1 className="font-bold text-5xl leading-[120%]">

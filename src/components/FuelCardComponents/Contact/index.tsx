@@ -7,7 +7,7 @@ import AvatarAlexTremblot from "@/assets/images/avatar_alex_tremblot.png";
 
 const Contact = () => {
   return (
-    <Layout className="rounded-bl-[150px] rounded-br-[150px]">
+    <Layout className="rounded-bl-[150px] rounded-br-[150px] grid grid-cols-1 lg:grid-cols-2 pb-[120px]">
       <div className="gap-6 flex flex-col justify-center items-start">
         <h1 className="font-bold text-2xl lg:text-5xl leading-[120%]">
           Join Our Fuel Network Today

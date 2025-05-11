@@ -46,7 +46,7 @@ const Footer = () => {
         </div>
       </div>
       <div className="border-t border-black_202937 pt-10">
-        <ul className="grid grid-cols-2 lg:grid-cols-1 justify-items-center gap-4 text-black_202937 font-inter text-base leading-[150%] text-14 lg:flex lg:flex-row lg:items-center lg:justify-center">
+        <ul className="grid grid-cols-2 lg:grid-cols-1 justify-items-start gap-4 text-black_202937 font-inter text-base leading-[150%] text-14 lg:flex lg:flex-row lg:items-center lg:justify-center">
           <li>© 2024 Motion. All rights reserved.</li>
           <li>Privacy Policy</li>
           <li>Terms of Service</li>

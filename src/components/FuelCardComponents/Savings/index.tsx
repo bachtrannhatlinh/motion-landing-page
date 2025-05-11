@@ -5,7 +5,7 @@ import fraudDetection from "@/assets/images/fraud-detection.png";
 
 const Savings = () => {
   return (
-    <Layout>
+    <Layout className="grid grid-cols-1">
       <div className="h-[640px] rounded-[24px] bg-gray_ccc" />
       <div className="gap-6 flex flex-col justify-center items-start">
         <h3 className="font-bold text-4 leading-[150%] text-green_24D6DC">SAVINGS</h3>
